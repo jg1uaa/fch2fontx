@@ -1,6 +1,6 @@
 CC = cc
 
-TARGET = fontx2fch
+TARGET = fch2fontx
 OBJ = memio.o parse.o load.o main.o convert.o
 CFLAGS = -O2 -Wall
 
